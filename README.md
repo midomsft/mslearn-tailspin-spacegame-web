@@ -1,3 +1,4 @@
+[![Build Status](https://midobing.visualstudio.com/spacehame/_apis/build/status/midomsft.mslearn-tailspin-spacegame-web?branchName=master)](https://midobing.visualstudio.com/spacehame/_build/latest?definitionId=15&branchName=master)
 
 # Contributing
 
